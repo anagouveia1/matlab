@@ -48,7 +48,8 @@ ylabel('Frequency Values for All Octaves') % y-axis label
 Connectivity = delaunay(x,y);
 Vertices = [x',y']
 
-%The interesting part of applying that idea to the concepts of scalars, vectors and matrices, a little bit of calculus III and I guess some ingenuity and passion for somethings,
+%The interesting part of applying that idea to the concepts of scalars, vectors and matrices, a little bit of calculus III 
+%and I guess some ingenuity and passion for somethings...
 %voi-la.. a Musical Nautilus comes to life.
 
 figure
