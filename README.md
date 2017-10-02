@@ -30,13 +30,11 @@ anagouveia@engineer.com</i>
 
 
 <Code> :: <a href="https://github.com/anagouveia1/matlab/blob/master/MusicalNautilus.m">MusicalNautilus.m</a> ::
-<Photo> :: 
   
-  <img src="http://www.anagouveia.us/uploads/1/0/6/9/106908145/musicalnautilus_orig.png" alt="Musical Nautilus">
+<Photo> <img src="http://www.anagouveia.us/uploads/1/0/6/9/106908145/musicalnautilus_orig.png" alt="Musical Nautilus">
  
- ::
- 
-  <h1><Photo Credits></h1>
+
+  <h1> :: Photo Credits :: </h1>
   
   Think about a Musical Clock. Each angle line (30, 60...) across theta, shows all the frequencies for the 12-pitches marked on the photo. For your reference 0deg = C and 90deg = A . 
   
