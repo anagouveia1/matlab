@@ -2,7 +2,7 @@
 September, 30th 2017.
 Boston, MA
 
-The first time I heard about Matlab I thought it would be an additional class requirement that I did not want to have.
+The first time I heard about <a href="https://github.com/anagouveia1/numericalmethodspdes">Matlab</a> I thought it would be an additional class requirement that I did not want to have.
 Too bad. I guess somethings are meant to be.
 
 Little did I know that the things I found mostly interesting in my Calculus III courses had all to do with it.
