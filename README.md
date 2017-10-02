@@ -28,16 +28,22 @@ This is the story of the thoughts behind it!
 ARGouveia
 anagouveia@engineer.com</i>
 
+
 <Code> :: <a href="https://github.com/anagouveia1/matlab/blob/master/MusicalNautilus.m">MusicalNautilus.m</a> ::
 <Photo> :: 
   
   <img src="http://www.anagouveia.us/uploads/1/0/6/9/106908145/musicalnautilus_orig.png" alt="Musical Nautilus">
  
-  <Photo Credits>
-  Each angle line (30, 60...) across theta shows all the frequencies for the pitches marked on the photos.
-  For your reference 0deg = C and 90deg = A
-  WITHIN that angle vector, all 9 octaves for eacho f the pitch form the nodes on the plot.
+ ::
+ 
+  <h1><Photo Credits></h1>
   
-  Imagine it like this: you start pressing the left most key on a 9 octave piano. If you press each individual key, you'd be plotting each following frequency. The pressing of each of those keys, throughout all 9 octaves, with a simple recurrence form shows how their distances form, a Musical Nautilus. 
+  Think about a Musical Clock. Each angle line (30, 60...) across theta, shows all the frequencies for the 12-pitches marked on the photo. For your reference 0deg = C and 90deg = A . 
+  
+  Within that angle vector, all 9 octaves for eacho f the pitch form the nodes on the plot.
+  
+  <h1> What's that plot in real life? </h1>
+  
+  Imagine it like this: you start pressing the left most key on a 9 octave piano. If you press each individual key, you'd be starting at the lowest frequency of C=17Hz, and would then be plotting each following node on the graph. The pressing of each of those keys, throughout all 9 octaves, with a simple recurrence formula, shows how their distances form, a Musical Nautilus. 
   
   
