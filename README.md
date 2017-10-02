@@ -38,7 +38,7 @@ anagouveia@engineer.com</i>
   
   Think about a Musical Clock. Each angle line (30, 60...) across theta, shows all the frequencies for the 12-pitches marked on the photo. For your reference 0deg = C and 90deg = A . 
   
-  Within that angle vector, all 9 octaves for eacho f the pitch form the nodes on the plot.
+  Within that angle vector, all 9 octaves for each of the pitches form the nodes on the plot.
   
   <h1> What's that plot in real life? </h1>
   
